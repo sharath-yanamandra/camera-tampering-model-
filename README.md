@@ -214,9 +214,6 @@ if (current_time - last_console_update) >= 1.0:  # More frequent updates
 - Implement access controls for log files
 - Regular security updates for dependencies
 
-## 📝 License
-
-This code appears to be a standalone implementation. Please ensure compliance with your organization's software licensing requirements.
 
 ## 🤝 Contributing
 
